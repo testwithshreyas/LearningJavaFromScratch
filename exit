@@ -1,0 +1,191 @@
+[33mcommit 82f5b949e4390f87f590d9e19f87a2e1e07b9ad3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sat Sep 27 14:34:42 2025 +0530
+
+    Added String Concatenation Program
+
+[33mcommit 382aa2cb4ef7a7a72e4e1a255a6b1dc787250c79[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sat Sep 27 14:22:08 2025 +0530
+
+    Added String Trim Method Program
+
+[33mcommit 74e76465d204d48220deb09de984c9f13ef38b48[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sat Sep 27 14:19:44 2025 +0530
+
+    Added String Equals Method Program
+
+[33mcommit ede548b6878e434bd8b79b9a37069696ad60f45d[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sat Sep 27 14:11:31 2025 +0530
+
+    Added String Char At Method Program
+
+[33mcommit c2718d7220ba6c7b735f7fbc5176d3248574e08f[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sat Sep 27 13:59:42 2025 +0530
+
+    Added String Lower Method Program
+
+[33mcommit cc24339b5d3aa3fa31b397a2590471d9eb39500d[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sat Sep 27 13:56:27 2025 +0530
+
+    Added String Uppercase Method Program
+
+[33mcommit 1cf4671edb630edf1fad25ad4c229b3b92402b47[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sat Sep 27 13:40:07 2025 +0530
+
+    Added String Length Method Program
+
+[33mcommit ce8ec23de6748cf9f411e76f89adde337231f472[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 21 19:26:58 2025 +0530
+
+    Added Strings inbuilt methods info
+
+[33mcommit a9b54518866701752e82f155e475a8abb6390dc5[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 21 19:19:15 2025 +0530
+
+    Added Logical Operator Program
+
+[33mcommit 459bf90cbdf79bb07dde6d4bc84ed2f92b31be66[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 21 18:47:28 2025 +0530
+
+    Added Comparison Operator program
+
+[33mcommit b28a66f2e29d342ed0e3cf18f9dcbfa734cd0829[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 21 18:33:42 2025 +0530
+
+    Added Assignment Opreator Program
+
+[33mcommit 2e7c508c0e5e99faf5562f823418ec267745fc91[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 21 12:25:01 2025 +0530
+
+    Arithmetic Operator Program
+
+[33mcommit 3947b6c5995902d199022c30d720a8d03345106b[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 21 12:13:36 2025 +0530
+
+    Added Operators Theory
+
+[33mcommit d98c815e4a6bc32a23c01ff85a8c2a13db97e34e[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 21 11:48:34 2025 +0530
+
+    Added Type Casting Example
+
+[33mcommit c67c58101cc73521a7e13810c0a5e80e0f10cc02[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 21 11:39:31 2025 +0530
+
+    Added ASCII table
+
+[33mcommit e5f4b49e64af795081a332fef25ee24ff2facc18[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 21 11:27:18 2025 +0530
+
+    Added Narrowing Program
+
+[33mcommit 07bfd764cde7208f365a4f6d09bb317f2da6fbdf[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 21 11:16:02 2025 +0530
+
+    Added Widening Casting Program
+
+[33mcommit b5228cdc3b9b15e376f7be3cc0d5f58717b146f6[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 21 11:09:42 2025 +0530
+
+    Data Types Theory
+
+[33mcommit 9c3dad225e3c4d4e22d50f6671b54e34ad8ca9f0[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 21 11:04:15 2025 +0530
+
+    Type Casting Theory
+
+[33mcommit 5cc55f3981bcf7d21e0587d600426e4808a515df[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Mon Sep 15 13:52:53 2025 +0530
+
+    Library Management Example
+
+[33mcommit 00291014dbe6a23a9390d9cefe1a2bedae369ce2[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Mon Sep 15 13:42:17 2025 +0530
+
+    Var Keyword Understanding
+
+[33mcommit ac1f57c939f17c658895fe5ef14ae784c73eff8b[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Mon Sep 15 13:26:21 2025 +0530
+
+    Non-primitive data type: String
+
+[33mcommit d69a728f706541b641d94755b98d863b76d6929d[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Mon Sep 15 13:18:39 2025 +0530
+
+    Character data type
+
+[33mcommit 1699b51e4958e9842825d64f16ae2d26f1482eb8[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Mon Sep 15 13:11:23 2025 +0530
+
+    Boolean Data Type understanding
+
+[33mcommit 270ab9948224f5de693a77c676bbe19b04a4f394[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Mon Sep 15 13:05:10 2025 +0530
+
+    Java Numeric Primitive Data Types
+
+[33mcommit 12c59b50dc9283a69b1a5bf0a66d9375f647b153[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 14 22:45:52 2025 +0530
+
+    Grocery Bill Calculator Program
+
+[33mcommit 4f2af7056852ddb5022c027d8a3e949e474b247d[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 14 22:24:24 2025 +0530
+
+    Declaring Multiple Variables
+
+[33mcommit 4b7f330ea418935e9b5a8bb978d06e2f9bde0aee[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 14 22:17:54 2025 +0530
+
+    Added rules to declare variables
+
+[33mcommit ec13baa27bc41360ac8319446b449760e82bc7af[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 14 22:13:59 2025 +0530
+
+    Print Variables
+
+[33mcommit 7e98b86e574309787ee7c54c24045b447f947e24[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 14 22:07:42 2025 +0530
+
+    Initializing Variables
+
+[33mcommit bc576fec05b6dd752663ea06fbc99ca5aee0750f[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 14 21:52:40 2025 +0530
+
+    Multiline Comment
+
+[33mcommit e6af8211e9793dc5cf4082ef282c9bf9dd232587[m
+Author: testwithshreyas <shreyasddeshmukh@gmail.com>
+Date:   Sun Sep 14 21:36:59 2025 +0530
+
+    Initial Commit
