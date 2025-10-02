@@ -7,6 +7,8 @@ public class PowFunction {
 
         int x = 2;
         int y = 10;
+        // Note: The Math.pow() method always returns a double, even if the result is a whole number.
+        // For example, Math.pow(2, 10) returns 1024.0 (not 1024).
         double raised_value = Math.pow(x, y);
 
         System.out.println("Raised value for " + x + " and " + y + " : " + raised_value);
