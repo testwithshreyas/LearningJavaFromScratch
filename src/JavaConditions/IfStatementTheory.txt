@@ -1,0 +1,31 @@
+The if statement specifies a block of code to be executed if a condition is true.
+
+Syntax:
+if (condition) {
+  // block of code to be executed if the condition is true
+}
+
+The condition inside the if statement must result in a boolean value - it can be either a boolean expression (like x > y) or a boolean variable (like isLightOn).
+
+Also note that if is in lowercase letters. Uppercase letters (If or IF) will generate an error.
+
+Boolean Expression Example:
+int x = 20;
+int y = 18;
+if (x > y) {
+  System.out.println("x is greater than y");
+}
+
+Boolean Variable Example:
+boolean isLightOn = true;
+if (isLightOn) {
+  System.out.println("The light is on.");
+}
+
+If Without Braces:
+If an if statement has only one line of code, you can write it without curly braces { }:
+Example
+if (20 > 18)
+  System.out.println("20 is greater than 18");
+
+Tip: Always using braces { } makes your code clearer, easier to read, and prevents subtle bugs.
