@@ -1,0 +1,24 @@
+Use the else if statement to specify a new condition if the first condition is false.
+
+Syntax:
+if (condition1) {
+  // block of code to be executed if condition1 is true
+} else if (condition2) {
+  // block of code to be executed if the condition1 is false and condition2 is true
+} else {
+  // block of code to be executed if the condition1 is false and condition2 is false
+}
+
+Think of it like real life: If it rains, bring an umbrella. Else if it's sunny, wear sunglasses. Else, just go outside normally.
+
+Example
+int weather = 2; // 1 = raining, 2 = sunny, 3 = cloudy
+
+if (weather == 1) {
+  System.out.println("Bring an umbrella.");
+} else if (weather == 2) {
+  System.out.println("Wear sunglasses.");
+} else {
+  System.out.println("Just go outside normally.");
+}
+// Outputs "Wear sunglasses."
