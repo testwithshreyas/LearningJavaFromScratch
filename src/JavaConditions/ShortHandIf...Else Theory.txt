@@ -1,0 +1,22 @@
+There is also a shorthand if else, which is known as the ternary operator because it consists of three operands.
+
+It can be used to replace multiple lines of code with a single line, and is most often used to replace simple if else statements.
+
+Syntax,
+variable = (condition) ? expressionTrue :  expressionFalse;
+
+Example,
+int time = 20;
+String result = (time < 18) ? "Good day." : "Good evening.";
+System.out.println(result);
+
+You can nest ternary operators to handle more than two possible outcomes, but this can make your code harder to read.
+
+Example,
+int time = 22;
+String message = (time < 12) ? "Good morning."
+               : (time < 18) ? "Good afternoon."
+               : "Good evening.";
+System.out.println(message);
+
+Tip: Use the ternary operator for short, simple choices. For longer or more complex logic, the regular if...else is easier to read.
