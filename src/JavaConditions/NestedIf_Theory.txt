@@ -1,0 +1,28 @@
+You can also place an if statement inside another if. This is called a nested if statement.
+
+A nested if lets you check for a condition only if another condition is already true.
+
+Syntax,
+if (condition1) {
+  // code to run if condition1 is true
+  if (condition2) {
+    // code to run if both condition1 and condition2 are true
+  }
+}
+
+Example,
+int x = 15;
+int y = 25;
+
+if (x > 10) {
+  System.out.println("x is greater than 10");
+
+  // Nested if
+  if (y > 20) {
+    System.out.println("y is also greater than 20");
+  }
+}
+
+Notes,
+You can nest as many if statements as you want, but avoid making the code too deep - it can become hard to read.
+Nested if is often used together with else and else if for more complex decision-making.
