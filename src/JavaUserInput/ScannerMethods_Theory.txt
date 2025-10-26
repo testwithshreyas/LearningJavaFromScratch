@@ -1,0 +1,36 @@
+The Scanner class can be used to obtain data from the keyboard, files and strings.
+
+A list of useful Scanner methods can be found in the table below.
+
+----------------------------------------------------------------------------------------------
+Method                  Description                                               Return Type
+----------------------------------------------------------------------------------------------
+close()                 Close the scanner object                                  void
+delimiter()             Return the delimiter used to separate tokens              Pattern
+findInLine()            Return a string which matches a regex in current line     String
+findWithinHorizon()     Return a string which matches a regex within limit        String
+hasNext()               Return true if another token can be found                 boolean
+hasNextBoolean()        Return true if next token represents a boolean value      boolean
+hasNextByte()           Return true if next token represents a byte value         boolean
+hasNextDouble()         Return true if next token represents a double value       boolean
+hasNextFloat()          Return true if next token represents a float value        boolean
+hasNextInt()            Return true if next token represents an int value         boolean
+hasNextLine()           Return true if another line of text is available          boolean
+hasNextLong()           Return true if next token represents a long value         boolean
+hasNextShort()          Return true if next token represents a short value        boolean
+locale()                Return the scanner's locale                               Locale
+next()                  Return the next token in the scanner                      String
+nextBoolean()           Return the boolean value of the next token                boolean
+nextByte()              Return the byte value of the next token                   byte
+nextDouble()            Return the double value of the next token                 double
+nextFloat()             Return the float value of the next token                  float
+nextInt()               Return the int value of the next token                    int
+nextLine()              Return the next line of text in the scanner               String
+nextLong()              Return the long value of the next token                   long
+nextShort()             Return the short value of the next token                  short
+radix()                 Return the scanner's radix                                int
+reset()                 Reset the scanner's configuration                         Scanner
+useDelimiter()          Set the delimiter used to separate tokens                 Scanner
+useLocale()             Set the locale used by the scanner                        Scanner
+useRadix()              Set the radix used by the scanner                         Scanner
+----------------------------------------------------------------------------------------------
